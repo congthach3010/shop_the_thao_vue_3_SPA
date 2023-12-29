@@ -1,0 +1,33 @@
+{
+  "name": "fe-shop-the-thao",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@meforma/vue-toaster": "^1.3.0",
+    "@types/jquery": "^3.5.16",
+    "@zakerxa/vue-multiple-image-upload": "^1.0.8",
+    "axios": "^0.21.0",
+    "bootstrap": "^5.3.0",
+    "bootstrap-vue": "^2.23.1",
+    "jquery-scrollify": "^1.0.21",
+    "update": "^0.7.4",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "expose-loader": "^4.1.0",
+    "jquery": "^3.7.0",
+    "vite": "^4.3.5"
+  }
+}
